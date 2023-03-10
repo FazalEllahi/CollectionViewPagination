@@ -1,0 +1,25 @@
+{
+    "sections" : [
+                  {
+                  "title" : "DISCOVER",
+                  "description" : "Select your location and explore all your available offers",
+                  "id" : "discover_en"
+                  },
+                  {
+                  "title" : "EXPLORE",
+                  "description" : "View the outlets available to you at a glance",
+                  "id" : "explore_en"
+                  },
+                  {
+                  "title" : "SELECT",
+                  "description" : "View the outlet profile including available offers, location, contact details and amenities offered.",
+                  "id" : "profile_en"
+                  },
+                  {
+                  "title" : "REDEEM",
+                  "description" : "Redeeming your offer is quick and simple.",
+                  "id" : "redeem_en"
+                  }
+                  
+                  ]
+}
